@@ -3,7 +3,7 @@
     "description": "Manage your database configuration as profiles",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "config"],
-    "homepage": "https://github.com/fourn/admin-config",
+    "homepage": "https://github.com/Webakula/admin-config/",
     "license": "MIT",
     "authors": [
         {
